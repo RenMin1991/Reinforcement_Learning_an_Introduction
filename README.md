@@ -7,4 +7,5 @@
 [相关代码链接](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 ## 阅读进度
-### 4月14前读完第一章
+#### 4月14日前读完第一章
+### 5月12日前读完第二章
