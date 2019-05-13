@@ -9,3 +9,5 @@
 ## 阅读进度
 #### 4月14日前读完第一章
 ### 5月19日前读完第二章
+
+[人工智能知识树（AI Kownledge Tree）](https://github.com/SFFAI-AIKT/AIKT-MAIN)
